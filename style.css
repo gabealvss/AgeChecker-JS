@@ -22,3 +22,13 @@ section{
 div{
     text-align: center;
 }
+
+#foto {
+    max-width: 250px;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+
+.notice {
+    font-size: 12px;
+}
